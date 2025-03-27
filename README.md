@@ -2,13 +2,12 @@
 # Trinh Ngoc "ThaiUlt1m4te" Thai 
 ## About Me
 - 🏨FPT University Student/ Major Software Engineer.
-- A weirdo with cool music taste and a camera.
 - 🎮5-years CS:GO / CS2 Player.
 - 📸Love taking natural landscape.
 - 👹Manchester United fan.
 - 🟡Natus Vincere fan.
 - 🏎Mercedes-AMG Formula 1 Petronas fan. 
-
+-  A weirdo with cool music taste and a camera.
 -  I’m currently working on my Capstone Project.
 -  I’m currently doing some own personal project, might update soon.
 -  I love to talk about cars, camera, music (**Especially hiphop**), videogame,...
