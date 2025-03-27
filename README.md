@@ -1,5 +1,5 @@
 ## Hi there 👋
-# Trinh Ngoc "ThaiUlt1m4te" Thai 
+# Trinh Ngoc "ThaiUlt1m4te" Thai - A weirdo with cool music taste and a camera
 
 ## About Me
 - 🏨FPT University Student/ Major Software Engineer.
