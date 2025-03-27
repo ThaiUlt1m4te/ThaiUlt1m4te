@@ -12,7 +12,7 @@
 -  I’m currently working on my Capstone Project.
 -  I’m currently doing some own personal project, might update soon.
 -  I love to talk about cars, camera, music (**Especially hiphop**), videogame,...
--  My hobbies are taking pictures (Visit my instagram : **playboi.thaitrinh**), writing blog, music, videogame.
+-  My hobbies are taking pictures (Visit my instagram : **[Instagram](https://www.instagram.com/playboi.thaitrinh)**), writing blog, music, videogame.
 -  Contact me: mailto:thaitrinhngoc01@gmail.com.
 
 ## Skills
